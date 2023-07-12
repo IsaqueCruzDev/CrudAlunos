@@ -1,0 +1,23 @@
+section {
+    margin-top: 8%;
+    padding: 0 6%;
+}
+
+h1 {
+    color: #481e8d;
+    margin: 3% 0;
+}
+
+.texto1 {
+    margin-bottom: 7%;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem,1fr ));
+    align-items: center;
+}
+
+.grid img {
+    width: 90%;
+}
